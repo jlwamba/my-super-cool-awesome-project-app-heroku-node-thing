@@ -1,5 +1,5 @@
 {
-  "name": "my-super-cool-awesome-project-app-heroku-node-thing",
+  "name": "newfastnode",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jlwamba/my-super-cool-awesome-project-app-heroku-node-thing.git"
+    "url": "git+https://github.com/jlwamba/newfastnode"
   },
   "bugs": {
-    "url": "https://github.com/jlwamba/my-super-cool-awesome-project-app-heroku-node-thing/issues"
+    "url": "https://github.com/jlwamba/newfastnode/issues"
   },
-  "homepage": "https://github.com/jlwamba/my-super-cool-awesome-project-app-heroku-node-thing#readme"
+  "homepage": "https://github.com/jlwamba/newfastnode#readme"
 }
