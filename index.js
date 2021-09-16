@@ -7,7 +7,7 @@ const fs = require('fs');
 
 app.get('/', function (req, res) {
 
-    // res.send('<h3>Hello Node on Heroku</h3><a href="https://github.com/jlwamba/fast-node" target="_blank">See the code!</a>');
+    // res.send('<h3>Hello Node on Heroku</h3><a href="https://github.com/jlwamba/newfastnode" target="_blank">See the code!</a>');
     res.sendFile('/angular.html', { root: __dirname });
 
 
