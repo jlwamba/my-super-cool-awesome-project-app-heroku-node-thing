@@ -1,17 +1,25 @@
 {
-    "name": "my-super-cool-awesome-project-app-heroku-node-thing",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node index.js"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "express": "^4.17.1",
-        "request-promise": "^4.2.6"
-    }
+  "name": "my-super-cool-awesome-project-app-heroku-node-thing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request-promise": "4.2.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlwamba/my-super-cool-awesome-project-app-heroku-node-thing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jlwamba/my-super-cool-awesome-project-app-heroku-node-thing/issues"
+  },
+  "homepage": "https://github.com/jlwamba/my-super-cool-awesome-project-app-heroku-node-thing#readme"
 }
